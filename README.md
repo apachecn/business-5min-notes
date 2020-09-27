@@ -9,3 +9,14 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/5min-business-notes)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/5min-business-notes)
 + [代码仓库](https://github.com/apachecn/5min-business-notes)
+
+
+## 下载
+
+### NPM
+
+```
+npm install -g business-5min-notes
+business-5min-notes <port>
+# 访问 http://localhost:{port} 查看文档
+```
