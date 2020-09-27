@@ -13,6 +13,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install business-5min-notes
+business-5min-notes <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
