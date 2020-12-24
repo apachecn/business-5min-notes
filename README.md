@@ -5,6 +5,7 @@
 > 整理人：[洋_葱头](https://www.jianshu.com/u/de7c24e13fae)
 
 + [在线阅读](https://biz5min.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/business-5min-notes/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/5min-business-notes)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/5min-business-notes)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/5min-business-notes)
